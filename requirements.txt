@@ -1,0 +1,9 @@
+streamlit
+huggingface_hub
+# Additional dependencies for functionality
+# These packages are assumed from context and their common usage
+requests  # For API calls
+
+# NOTE: Add version constraints if required for compatibility, e.g.,
+# streamlit==1.25.0
+# openai==0.27.8
