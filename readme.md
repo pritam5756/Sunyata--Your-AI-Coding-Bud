@@ -41,7 +41,7 @@ Sunyata is an interactive, Streamlit-based AI-powered coding assistant that spec
 
 ## Usage
 
-1. **Launch the App**: Open your browser to the Streamlit app URL.
+1. **Launch the Sunyata**: Click here [Sunyata](https://sunyata-ai.streamlit.app).
 2. **Select Options**: Choose the programming language, task type, and any additional requirements from the sidebar.
 3. **Input Query**: Enter your code or describe your requirements in the provided text area.
 4. **Generate Solution**: Click on "Generate Solution" to receive AI-powered assistance.
